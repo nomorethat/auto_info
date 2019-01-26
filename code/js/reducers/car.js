@@ -5,15 +5,15 @@ export default function () {
             name: "audi",
             speed: 234,
             weight: 1.8
-        }
+        },
         {
             id: 2,
             name: "mersedes",
             speed: 261,
             weight: 1.6
-        }
+        },
         {
-            id: 1,
+            id: 3,
             name: "bmv",
             speed: 254,
             weight: 1.9
